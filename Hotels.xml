@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel id="H001" brand="Marriott">
+  <Hotel>
+    <ID>H001</ID>
+    <Brand>Marriott</Brand>
     <Name>Marriott Tempe at the Buttes</Name>
     <Phone>480-968-0000</Phone>
     <Phone>800-228-9290</Phone>
@@ -15,7 +17,8 @@
     <Rating>4.3</Rating>
   </Hotel>
 
-  <Hotel id="H002">
+  <Hotel>
+    <ID>H002</ID>
     <Name>Hyatt Place Tempe</Name>
     <Phone>480-123-4567</Phone>
     <Address>
@@ -26,9 +29,12 @@
       <Zip>85281</Zip>
       <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
+    <Rating></Rating>
   </Hotel>
 
-  <Hotel id="H003" brand="Hilton">
+  <Hotel>
+    <ID>H003</ID>
+    <Brand>Hilton</Brand>
     <Name>Hilton Garden Inn Phoenix-Tempe</Name>
     <Phone>480-968-8885</Phone>
     <Phone>877-782-9444</Phone>
@@ -43,7 +49,9 @@
     <Rating>4.5</Rating>
   </Hotel>
 
-  <Hotel id="H004" brand="HolidayInn">
+  <Hotel>
+    <ID>H004</ID>
+    <Brand>HolidayInn</Brand>
     <Name>Holiday Inn Express &amp; Suites</Name>
     <Phone>480-543-1700</Phone>
     <Address>
@@ -57,7 +65,8 @@
     <Rating>4.0</Rating>
   </Hotel>
 
-  <Hotel id="H005">
+  <Hotel>
+    <ID>H005</ID>
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
     <Address>
@@ -68,9 +77,12 @@
       <Zip>85281</Zip>
       <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
+    <Rating></Rating>
   </Hotel>
 
-  <Hotel id="H006" brand="BestWestern">
+  <Hotel>
+    <ID>H006</ID>
+    <Brand>BestWestern</Brand>
     <Name>Best Western Inn of Tempe</Name>
     <Phone>480-784-2233</Phone>
     <Address>
@@ -84,7 +96,9 @@
     <Rating>3.8</Rating>
   </Hotel>
 
-  <Hotel id="H007" brand="Motel6">
+  <Hotel>
+    <ID>H007</ID>
+    <Brand>Motel6</Brand>
     <Name>Motel 6 Tempe</Name>
     <Phone>480-894-9833</Phone>
     <Address>
@@ -95,9 +109,12 @@
       <Zip>85281</Zip>
       <NearestAirport>Phoenix Gateway</NearestAirport>
     </Address>
+    <Rating></Rating>
   </Hotel>
 
-  <Hotel id="H008" brand="Drury">
+  <Hotel>
+    <ID>H008</ID>
+    <Brand>Drury</Brand>
     <Name>Drury Inn &amp; Suites Phoenix</Name>
     <Phone>480-940-3700</Phone>
     <Phone>888-324-1835</Phone>
@@ -112,7 +129,8 @@
     <Rating>4.4</Rating>
   </Hotel>
 
-  <Hotel id="H009">
+  <Hotel>
+    <ID>H009</ID>
     <Name>Courtyard by Marriott</Name>
     <Phone>480-966-2800</Phone>
     <Address>
@@ -123,9 +141,12 @@
       <Zip>85281</Zip>
       <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
+    <Rating></Rating>
   </Hotel>
 
-  <Hotel id="H010" brand="Omni">
+  <Hotel>
+    <ID>H010</ID>
+    <Brand>Omni</Brand>
     <Name>Omni Tempe Hotel at ASU</Name>
     <Phone>480-245-7700</Phone>
     <Address>
