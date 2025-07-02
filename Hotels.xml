@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Hotel list -->
 <Hotels>
   <Hotel id="H001" brand="Marriott">
     <Name>Marriott Tempe at the Buttes</Name>
