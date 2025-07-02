@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+  <Hotel id="H001" brand="Marriott">
+    <Name>Marriott Tempe at the Buttes</Name>
+    <Phone>480-968-0000</Phone>
+    <Phone>800-228-9290</Phone>
+    <Address>
+      <Number>2000</Number>
+      <Street>W Westcourt Way</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>4.3</Rating>
+  </Hotel>
+
+  <Hotel id="H002">
+    <Name>Hyatt Place Tempe</Name>
+    <Phone></Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="H003" brand="Hilton">
+    <Name>Hilton Garden Inn Phoenix-Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>877-782-9444</Phone>
+    <Address>
+      <Number>86</Number>
+      <Street>S Rockford Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>4.5</Rating>
+  </Hotel>
+
+  <Hotel id="H004" brand="HolidayInn">
+    <Name>Holiday Inn Express &amp; Suites</Name>
+    <Name>Holiday Inn Express</Name>
+    <Phone>480-543-1700</Phone>
+    <Address>
+      <Number>1520</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+      <NearestAirport>Phoenix Gateway</NearestAirport>
+    </Address>
+    <Rating>4.0</Rating>
+  </Hotel>
+
+  <Hotel id="H005">
+    <Name>Aloft Tempe</Name>
+    <Phone>480-621-3300</Phone>
+    <Address>
+      <Number>951</Number>
+      <Street>E Playa del Norte Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+  </Hotel>
+
+  <Hotel id="H006" brand="BestWestern">
+    <Name>Best Western Inn of Tempe</Name>
+    <Phone>480-784-2233</Phone>
+    <Address>
+      <Number>670</Number>
+      <Street></Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>3.8</Rating>
+  </Hotel>
+
+  <Hotel id="H007" brand="Motel6">
+    <Name>Motel 6 Tempe</Name>
+    <Phone>480-894-9833</Phone>
+    <Address>
+      <Number>1915</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Phoenix Gateway</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="H008" brand="Drury">
+    <Name>Drury Inn &amp; Suites Phoenix</Name>
+    <Phone>480-940-3700</Phone>
+    <Phone>888-324-1835</Phone>
+    <Address>
+      <Number>1780</Number>
+      <Street>W Ranch Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>4.4</Rating>
+  </Hotel>
+
+  <Hotel id="H009">
+    <Name>Courtyard by Marriott</Name>
+    <Phone>480-966-2800</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="H010" brand="Omni">
+    <Name>Omni Tempe Hotel at ASU</Name>
+    <Phone>480-245-7700</Phone>
+    <Address>
+      <Number>7</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Rating>4.6</Rating>
+  </Hotel>
+</Hotel>
